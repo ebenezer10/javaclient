@@ -54,7 +54,7 @@ public class Client {
 
 	}
 
-	public static void testPost() throws Exception {
+	public static void getToken() throws Exception {
 
 		System.out.println("*** Test Http POST request ***");
 
